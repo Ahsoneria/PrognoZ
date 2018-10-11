@@ -12,3 +12,4 @@ We will fetch data for all storms in the past few years --weather variables of o
 Now we will try and find the patterns (which we got from the previous storms) in the predicted data over the next few weeks. According to the matches found we will give a probabilistic prediction on the storm status for the next few weeks.
 
 We will alert the respective disaster management authority if the probability of the storm is high. We will also be predicting the trajectory of the storm, its lasting period and its velocity so that preventive measures can be taken in advance accordingly and many lives can be saved.
+hey guys
