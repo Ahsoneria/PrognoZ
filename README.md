@@ -7,7 +7,7 @@ There are different kinds of storms which we will be focusing on because of the 
 
 First, we will take previous few years of data on pressure, temperature, humidity, wind speed and other such variables, which we call as weather variables. Then using ML we will predict the weather variables for the next few weeks.
 
-We will fetch data for all storms in the past few years --weather variables of one month (prior to the storm) Now we will try and find similarities between the previous occurrences of storms using ML algorithms. By similarities we mean some peculiar patterns or odd extremes, in the month before the storm, which give rise to the storm.
+We will fetch data for all storms in the past few years -weather variables of one month (prior to the storm) Now we will try and find similarities between the previous occurrences of storms using ML algorithms. By similarities we mean some peculiar patterns or odd extremes, in the month before the storm, which give rise to the storm.
 
 Now we will try and find the patterns (which we got from the previous storms) in the predicted data over the next few weeks. According to the matches found we will give a probabilistic prediction on the storm status for the next few weeks.
 
